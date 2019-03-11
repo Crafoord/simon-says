@@ -1,0 +1,14 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crafoord/simon-says.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  }
+}
